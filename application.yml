@@ -5,4 +5,4 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
     service-url:
-      defaultZone: http://svcregistry:30003/eureka
+      defaultZone: http://svcregistry:8761/eureka
